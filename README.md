@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://stories.starbucks.com/emea/stories/sustainability/)
+ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
 <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
