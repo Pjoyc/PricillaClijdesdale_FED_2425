@@ -46,7 +46,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
-  <img src"readme-images/IMG_2316 2.HEIC" width="375px" alt="Screenshot 1 checklist">
+  <img src="readme-images/IMG_2316 2.HEIC" width="375px" alt="Screenshot 1 checklist">
+  <img src="readme-images/IMG_2317 2.HEIC" width="375px" alt="Screenshot 2 checklist">
+  <img src="readme-images/IMG_2318 2.HEIC" width="375px" alt="Screenshot 3 checklist">
+  <img src="readme-images/IMG_2319 2.HEIC" width="375px" alt="Screenshot 4 checklist">
+  <img src="readme-images/IMG_2320 2.HEIC" width="375px" alt="Screenshot 5 checklist">
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
