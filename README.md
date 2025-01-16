@@ -58,6 +58,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <ul>
     <li>Ik heb niet goed opgelet, want de website gebruikt wel een lang attribute in de html.</li>
     <li>De website gebruikt ook voor elke pagina een unieke naam, iets waar ik ook niet goed op heb gelet.</li>
+    <li>De website overall bevat heel erg veel div's en classjes in de code.</li>
+    <li>Bij de producten pagina springt de code van een H1 (luchtig genieten)naar een H3< (Alle producten)./li>
+    <li>Doordat veel img elementen geen alt beschrijving hebben, wordt tijdens het gebruiken van de screenreader niet uitgesproken wat er te zien valt. Je hoort alleen 'link,         afbeelding, open in nieuw tab'.</li>
+    <li>De screenreader leest de a elementen en button's niet op de pagina van Producten.</li>
   </ul>
 
 </details>
