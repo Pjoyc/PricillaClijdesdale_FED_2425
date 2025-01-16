@@ -26,10 +26,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  
 </details>
 
-
-
-
-
 ## Je website
 
 <details open>
@@ -37,21 +33,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
  
-
   #### Screenshot(s) van de eerste pagina (small screen): 
-<img src="readme-images/Over ons pagina.png" width="375px" alt="Maltesers Over ons pagina">
+  <img src="readme-images/Over ons pagina.png" width="375px" alt="Maltesers Over ons pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <img src="readme-images/Producten pagina.png" width="375px" alt="Maltesers Producten pagina">
  
 </details>
 
-
-
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+
+  <img src"readme-images/IMG_2316 2.HEIC" width="375px" alt="Screenshot 1 checklist">
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
