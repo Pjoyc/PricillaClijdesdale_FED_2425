@@ -55,6 +55,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
+  <ul>
+    <li>Ik heb niet goed opgelet, want de website gebruikt wel een lang attribute in de html.</li>
+    <li>De website gebruikt ook voor elke pagina een unieke naam, iets waar ik ook niet goed op heb gelet.</li>
+  </ul>
+
 </details>
 
 
