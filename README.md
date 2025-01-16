@@ -60,8 +60,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     <li>De website gebruikt ook voor elke pagina een unieke naam, iets waar ik ook niet goed op heb gelet.</li>
     <li>De website overall bevat heel erg veel div's en classjes in de code.</li>
     <li>Bij de producten pagina springt de code van een H1 (luchtig genieten)naar een H3< (Alle producten)./li>
-    <li>Doordat veel img elementen geen alt beschrijving hebben, wordt tijdens het gebruiken van de screenreader niet uitgesproken wat er te zien valt. Je hoort alleen 'link,         afbeelding, open in nieuw tab'.</li>
+    <li>Doordat veel img elementen geen alt beschrijving hebben, wordt tijdens het gebruiken van de screenreader niet uitgesproken wat er te zien valt. Je hoort alleen 'link, afbeelding, open in nieuw tab'.</li>
     <li>De screenreader leest de a elementen en button's niet op de pagina van Producten.</li>
+    <li>Ik ben erachter gekomen dat het verschil tussen een a element en een button is dat bij een a element (linkje) je echt doorverwezen wordt naar een andere pagina, terwijl bij een button je verwezen wordt naar een ander deel / element op dezelfde pagina.</li>
+      <li>Op de pagina van Ons verhaal worden de afbeeldingen wel met omschrijvingen uitgesproken door de screenreader.</li>
   </ul>
 
 </details>
@@ -96,29 +98,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
 </details>
-
-
-
 
 
 ## Voortgang 2 (week 3)
@@ -130,27 +110,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
 </details>
-
-
 
 
 
@@ -166,8 +126,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
-
 ## Voortgang 3 (week 4)
 
 <details>
@@ -177,28 +135,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
 </details>
-
-
-
 
 
 ## Eindgesprek (week 5)
@@ -224,8 +161,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
-
 ## Bronnenlijst
 
 <details open>
@@ -235,8 +170,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Ik heb eigenlijk alleen de studentassistenten gesproken voor hulp. Op momenten dat ik iets niet meer helemaal begreep of vergeten was, vroeg ik ChatGPT enkel om een simpele uitleg van bepaalde delen uit mijn code. 
 
 </details>
