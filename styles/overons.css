@@ -1,0 +1,110 @@
+/*********************************************/
+/* EIGEN CSS CODE MET BLOED ZWEET EN TRANEN */
+/*******************************************/
+
+/* RESPONSIVE MAKEN VAN ARTIKELEN*/
+@media (min-width:38em){
+	/* VOOR SECTION MET ARTICLES OP GROTER SCHERM */
+	main section:nth-of-type(2){
+	display: flex;
+	flex-wrap: wrap;
+
+	padding: 16px;
+	}
+
+	main section:nth-of-type(2) article{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 10px;
+	
+	padding-top: 8px;
+	padding-bottom: 8px;
+	}
+
+	main section:nth-of-type(2) img{
+		grid-column: 1/2;
+		width: 100%;
+	}
+
+	.art{
+		grid-column: 2/2;
+	}
+
+	.art p{
+		font-size: 1em;
+		letter-spacing: 2px;
+	}
+	
+}
+
+/* ALGEMENE OPMAAK */
+main {
+	background-color:var(--primary-white);
+}
+
+/**********************************************/
+/* MALTESER BACKGROUND IMAGE MET TEKST OPMAAK */
+/**********************************************/
+main section:nth-of-type(1){
+	background-image: url("../images/Over\ maltesers/headimgOverons.avif");
+	background-repeat: none;
+	background-size: cover; /* zorgt ervoor dat de afbeelding volledig zichtbaar blijft */
+    background-position: center center; /* zorgt ervoor dat de afbeelding horizontaal
+	    									en verticaal wordt uitgelijnd */
+}
+
+main section:nth-of-type(1) h1{
+	color:var(--primary-white);
+	font-size: 0.9em;
+	text-transform:uppercase;
+
+	padding-top: 6em;
+	margin-bottom: 1.5em;
+	
+	justify-self: center;
+}
+
+main section:nth-of-type(1) p:nth-of-type(1){
+	color:var(--primary-white);
+	font-size: 2em;
+	
+	justify-self: center;
+}
+
+ main section:nth-of-type(1) p:nth-of-type(2){
+	color:var(--primary-white);
+	font-size: 2em;
+
+	padding-bottom: 7em;
+	justify-self: center;
+ }
+
+ /**********************************/
+/* SECTION 2: OPMAAK MOBILE FIRST */
+/*********************************/
+
+main section:nth-of-type(2) article img{
+	width: 100%;
+	padding: 16px;
+}
+
+.art{
+	margin-left: 16px;
+	margin-right: 16px;
+}
+
+
+.art h2{
+	color: var(--primary-red);
+	font-size: 1.6em;
+	line-height: 40px;
+
+	padding-bottom: 5px;
+}
+
+.art p{
+	color: var(--color-text);
+	line-height: 25px;
+	padding-top:5px;
+	padding-bottom: 30px;
+}
