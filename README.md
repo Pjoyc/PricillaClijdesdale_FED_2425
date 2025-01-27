@@ -80,13 +80,14 @@ Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Ons 
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/4.jpg" width="300px" alt="breakdownschets bovenkant producten pagina">
+  <img src="readme-images/5.jpg" width="300px" alt="breakdownschets midden producten pagina">
+  <img src="readme-images/8.jpg" width="300px" alt="breakdownschets midden over ons pagina">
+  <img src="readme-images/9.jpg" width="300px" alt="breakdownschets boven footer over ons pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="readme-images/3.jpg" width="300px" alt="breakdownschets menu navigatie">
+  <img src="readme-images/6.jpg" width="300px" alt="breakdownschets footer navigatie">
 
 </details>
 
