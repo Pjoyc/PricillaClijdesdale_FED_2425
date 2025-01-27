@@ -52,6 +52,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <img src="readme-images/ss1.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
