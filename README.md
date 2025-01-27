@@ -162,6 +162,12 @@ Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Ons 
 <details>
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
+  <img src="readme-images/ss1n.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss2n.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss3n.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss4n.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss5n.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
   Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Producten
