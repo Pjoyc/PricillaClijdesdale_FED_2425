@@ -123,7 +123,7 @@ Ik moet toegeven dat ik tussen dit voortgangsgesprek en de laatste les, echt een
   - punt 2: Grid-template-columns onder de knie krijgen. Dat is eigenlijk de 'Gouden sleutel' naar de opmaak binnen mijn website.
   - punt 3: Ervoor zorgen dat ik tijdens de laatste lessen, en het laatste voortgangsgesprek, waar nodig nog de laatste vragen kan stellen.
   - Punt 4: Hieronder kun je de tekening zien die mijn leven gered heeft tijdens het coderen!
-<img src="readme-iamges/grid-column.png" width="300px" alt="screenshot van uitleg studentassistent">
+<img src="readme-iamges/grid-colum.png" width="300px" alt="screenshot van uitleg studentassistent">
 
 </details>
 
