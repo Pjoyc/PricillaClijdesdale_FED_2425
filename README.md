@@ -91,10 +91,6 @@ Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Ons 
 
 </details>
 
-
-
-
-
 ## Voortgang 1 (week 2)
 
 <details>
