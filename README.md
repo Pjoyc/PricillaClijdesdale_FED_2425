@@ -61,7 +61,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/ss5.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
 
   Lijst met je bevindingen die in de test naar voren kwamen:
+   Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Producten:
+- Er wordt gesprongen van H1 naar een H3 wat heel raar staat.
+- De afbeeldingen hebben geen alt tekst, maar doordat de titel (H3) ook de afbeelding beschrijft is het niet per se een groot probleem voor de toegankelijkheid.
+- Alle a elementen worden voor gelezen als ‘bezocht, link,’.
+- Alle a elementen die in een andere site openen worden voorgelezen als ‘opent in nieuw venster’.
 
+Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Ons verhaal:
+- Overal wordt er voor de titel een H1 gebruikt.
+- Voor de titel die over de afbeelding geschreven staat wordt een article element gebruikt wat niet per se nodig is. 
+- Alt teksten van de afbeeldingen kan ik wel teruglezen in de code, alleen worden deze niet voorgelezen tijdens de test met de screenreader. Kan aan mijn screenreader liggen. 
 </details>
 
 
