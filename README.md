@@ -58,12 +58,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/ss4.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
   <img src="readme-images/ss5.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest
 
-
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
-
 
 
 ## Breakdownschets (week 1)
