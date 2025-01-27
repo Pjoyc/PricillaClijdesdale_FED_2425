@@ -91,13 +91,18 @@ Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Ons 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+Om heel eerlijk te zijn was ik bij voortgangsgesprek 1 letterlijk nergens met mijn website. Ik heb mij enkel alleen gefocust op de breakdownschets. Dit kwam doordat coderen voor mij echt een FLINK aantal jaren geleden was, en ik zeker van wilde zijn dat de basis voor mijn website waar ik mee begon te bouwen correct zou zijn. 
+
+Het was welliswaar niet super verstandig om ermee te wachten, maar uiteindelijk ben ik wel achter een aantal fouten gekomen.
+
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - De tip was om mijn breakdownschets voor mezelf snel te verbeteren, maar daarna wel echt aan de slag te gaan met mij code. Al zou het helemaal nergens op lijken, heb je dan toch wel een punt om verder op te bouwen a.d.h.v. feedback. 
+  - Omdat ik eigenlijk vrij weinig had om feedback op te krijgen zal ik kleine punten omschrijven van mijn breakdownschets die niet correct waren.
+  - Punt 1: Op afbeelding is het woordje 'producten' een H1 in plaats van een H2. Op elke pagina moet je website namelijk beginnen met een H1, en los daarvan is het de titel van de pagina.
+  - Punt 2: Het woordje 'Alle producten' is in plaats van een H3 een H2.
+  - Punt 3: Alle sections zijn articles. Je wilt op 1 html pagina het liefst zo min mogelijk sections.
 
 </details>
 
