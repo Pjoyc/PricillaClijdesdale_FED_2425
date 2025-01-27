@@ -159,7 +159,19 @@ Op de andere pagina die ik heb gecodeerd, de pagina Over Ons van Maltesers gebeu
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik was hier eigenlijk al heel ver met mijn website. Dat komt grotendeels doordat beide pagina's zowel aan de bovenkant (navigatie), als aan de onderkant (footer) gelijk zijn. Ik kon dat dus makkelijk copy pasten. Het enige waar ik tegenaan liep was mijn hamburger menu. Deze moest nog op groot scherm werken, en dit kon door middel van media quieries. Ik had hier nog geen aandacht aan besteed, maar ging in de les eigenlijk direct goed. 
+
+Wat ik lastig vond verder, is dat ik de schaduw van mijn button niet wegkrijg. Zie afbeelding hieronder:
+<img src="readme-images/Button.png" width="300px" alt="Button footer">
+- Ik heb dit geprobeerd met box-shadow:none, alleen heeft dit niet succesvol gewerkt.
+
+Wat ik als tweede punt lastig vond, en uiteindelijk wel heb kunnen oplossen, is tijdens de laatste les de teksten goed krijgen van mijn 'Ons verhaal' pagina. Zie afbeelding hieronder:
+<img src="readme-images/Teksten.png" width="300px" alt="Teksten 'Ons verhaal' pagina">
+- Ik heb een container om de H2 en p gezet, zodat ik kan vertellen aan mijn code dat in mijn grid-column-template de img naar links moet en de container met de teksten naar rechts.
+- In de afbeelding hierboven stond mijn code goed, maar het zag er niet uit.
+
+Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even gestresst, omdat ik niet wist hoe dit moest. Maar dankij de PPT presentatie 'Themes' heb ik geleerd hoe dit moest. Ook heb ik hierdoor ondervonden hoe belangrijk het is om custom properties te hebben binnen de CSS. Zie afbeelding hieronder van mijn basis knopjes:
+<img src="readme-images/Lightdark.png" width="300px" alt="Teksten 'Ons verhaal' pagina">
 
 
 </details>
