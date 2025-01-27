@@ -158,6 +158,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Producten
+
+- Ik merk dat hij alles netjes van boven naar beneden afleest
+- Wat ik wel verder heel irritant vind is dat hij bij alle linkjes (a elementen) voorleest: bezocht, link, naam van het a element. Dit maakt het best langdradig voor iemand en irritant om achter elkaar te horen. 
+- De screenreader leest de headings af als een kopniveau. Bij bijvoorbeeld dus een heading 2 bovenaan de pagina, leest het eerst voor: kopniveau 2 en vervolgens wat er dan staat. 
+- Bij p elementen leest hij alleen voor wat er letterlijk staat. 
+- Bij alle button elementen leest hij eerst voor wat er staat en dan zegt die erna ‘knop’. 
+- De screenreader leest eerst de alt teksten van de afbeelding en zegt daarna vervolgens ‘afbeelding’. Dit maakt het duidelijker voor de doelgroep dat het een afbeelding is die     op de plek staat. 
+
+Op de andere pagina die ik heb gecodeerd, de pagina Over Ons van Maltesers gebeuren er geen buitengewone dingen. 
 
 </details>
 
