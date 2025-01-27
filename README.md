@@ -55,11 +55,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-  <img src="readme-images/ss1.HEIC" width="375px" alt="deel 1 Toegankelijkheidstest">
-  <img src="readme-images/ss2.HEIC" width="375px" alt="deel 1 Toegankelijkheidstest">
-  <img src="readme-images/ss3.HEIC" width="375px" alt="deel 1 Toegankelijkheidstest">
-  <img src="readme-images/ss4.HEIC" width="375px" alt="deel 1 Toegankelijkheidstest">
-  <img src="readme-images/ss5.HEIC" width="375px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss1.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss2.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss3.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss4.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
+  <img src="readme-images/ss5.HEIC" width="300px" alt="deel 1 Toegankelijkheidstest">
 
 </details>
 
