@@ -89,8 +89,6 @@ Wat mij opvalt van het lezen van de pagina met de screenreader op de pagina Ons 
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
 Om heel eerlijk te zijn was ik bij voortgangsgesprek 1 letterlijk nergens met mijn website. Ik heb mij enkel alleen gefocust op de breakdownschets. Dit kwam doordat coderen voor mij echt een FLINK aantal jaren geleden was, en ik zeker van wilde zijn dat de basis voor mijn website waar ik mee begon te bouwen correct zou zijn. 
 
 Het was welliswaar niet super verstandig om ermee te wachten, maar uiteindelijk ben ik wel achter een aantal fouten gekomen.
@@ -112,15 +110,20 @@ Het was welliswaar niet super verstandig om ermee te wachten, maar uiteindelijk 
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik heb er helaas geen screenshots van genomen, which is totally my fault. Ik was te gefocust op het vooruit komen. Echter bij dit gesprek was ik ook niet ver genoeg, om inhoudelijk echt veel feedback te krijgen. Ik liep eigenlijk tegen het feit aan op mijn 'Producten' pagina, dat ik de articles totaal niet wist te stylen in mijn CSS. 
+
+Ik  verloor eigenlijk alle moed en had slechts 2 á 3 vragen die ik kon stellen. Ook hier kreeg ik de feedback om toch door te zetten en echt dagen uit te trekken om een aantal uur te coderen. Op deze manier kun je veel meer feedback verwerken en je codeer skills verbeteren. Het huilen stond mij echt nabij op dit moment, maar voor alsnog mijn eigen schuld. Ik ben aan de slag gegaan met grid-template-columns. En nadat ik doorhad hoe dit exact in elkaar zat, heb ik dit op de hele pagina, waar nodig, toegepast.
+
+Ik moet toegeven dat ik tussen dit voortgangsgesprek en de laatste les, echt een flinke sprong heb kunnen maken.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Punt 1: Nu echt actie ondernemen en alles coderen, ook de 'Ons verhaal' pagina. Want die had ik op dat moment nog niet.
+  - punt 2: Grid-template-columns onder de knie krijgen. Dat is eigenlijk de 'Gouden sleutel' naar de opmaak binnen mijn website.
+  - punt 3: Ervoor zorgen dat ik tijdens de laatste lessen, en het laatste voortgangsgesprek, waar nodig nog de laatste vragen kan stellen.
+  - Punt 4: Hieronder kun je de tekening zien die mijn leven gered heeft tijdens het coderen!
+<img src="readme-iamges/grid-column.png" width="300px" alt="screenshot van uitleg studentassistent">
 
 </details>
 
