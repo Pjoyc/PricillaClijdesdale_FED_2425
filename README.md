@@ -193,6 +193,9 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
   <img src="readme-images/hbm2.png" width="375px" alt="hamburger menu">
   - Het hamburger menu coderen en vormgeven ging goed met behulp van de lessen en de opdracht van Sanne.
 
+
+  
+
   <img src="readme-images/ppa.png" width="375px" alt="Producten pagina artikelen">
 
   
