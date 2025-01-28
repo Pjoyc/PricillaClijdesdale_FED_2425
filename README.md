@@ -188,21 +188,30 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
 
   ### Dit ging goed/Heb ik geleerd: 
   <img src="readme-images/hbm1.png" width="375px" alt="hamburger menu">
+
+  
   <img src="readme-images/hbm2.png" width="375px" alt="hamburger menu">
   - Het hamburger menu coderen en vormgeven ging goed met behulp van de lessen en de opdracht van Sanne.
 
   <img src="readme-images/ppa.png" width="375px" alt="Producten pagina artikelen">
+
+  
   <img src="readme-images/ovp.png" width="375px" alt="Ons verhaal pagina">
+
+  
   <img src="readme-images/footer.png" width="375px" alt="hamburger menu">
+
+  
   - Met behulp van de grid-template-colum heb ik mijn artikelblokken heel mooi kunnen opmaken, en kon ik hierin vrij bewegen. Dit was heel erg fijn. Ook hierbij heb ik hulp gekregen tijdens een van de voortgangsgesprekken.
   - Ook heb ik door middel van deze CSS styling, de pagina van 'Ons verhaal' kunnen opmaken in media queries.
   - Binnen mijn footer heb ik ook hier weer dezelfde CSS styling toegepast, en met behulp van containers rechtsgezet. 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
   <img src="readme-images/Teksten.png" width="375px" alt="Teksten 'Ons verhaal' pagina">
   
   - Op de officiele pagina wisselen deze steeds om van positie (de afbeelding en tekst). Ik heb een poging gedaan dit    gelijk te krijgen, alleen is dit niet gelukt.
+    
+  
 
   <img src="readme-images/navigatie.png" width="375px" alt="navigatie menu">
   
