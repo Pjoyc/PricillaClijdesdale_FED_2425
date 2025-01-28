@@ -183,19 +183,36 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
+  <img src="readme-images/Mijnpagina1.png" width="375px" alt="uitkomst opdracht">
+  <img src="readme-images/Mijnpagina2.png" width="375px" alt="uitkomst opdracht">
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+  <img src="readme-images/hbm1.png" width="300px" alt="hamburger menu">
+  <img src="readme-images/hbm2.png" width="300px" alt="hamburger menu">
+  - Het hamburger menu coderen en vormgeven ging goed met behulp van de lessen en de opdracht van Sanne.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  <img src="readme-images/ppa.png" width="300px" alt="Producten pagina artikelen">
+  <img src="readme-images/ovp.png" width="300px" alt="Ons verhaal pagina">
+  <img src="readme-images/footer.png" width="300px" alt="hamburger menu">
+  - Met behulp van de grid-template-colum heb ik mijn artikelblokken heel mooi kunnen opmaken, en kon ik hierin vrij bewegen. Dit was heel erg fijn. Ook hierbij heb ik hulp gekregen tijdens een van de voortgangsgesprekken.
+  - Ook heb ik door middel van deze CSS styling, de pagina van 'Ons verhaal' kunnen opmaken in media queries.
+  - Binnen mijn footer heb ik ook hier weer dezelfde CSS styling toegepast, en met behulp van containers rechtsgezet. 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+  <img src="readme-images/Teksten.png" width="300px" alt="Teksten 'Ons verhaal' pagina">
+  - Op de officiele pagina wisselen deze steeds om van positie (de afbeelding en tekst). Ik heb een poging gedaan dit    gelijk te krijgen, alleen is dit niet gelukt.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/navigatie.png" width="300px" alt="navigatie menu">
+  - Binnen de navigatie zijn er eigenlijk nog twee onderdelen, waarvan 1 boven (contact en hulp, zoekbalk) en 1          beneden (Home/Producten). Deze twee waren voor mij nog te grote uitdaging om erin te verwerken. Het is echter alleen   kwestie van veel CSS styling, alleen ben ik nog niet zover om dit te kunnen. 
+
+ <img src="readme-images/golfje.png" width="300px" alt="Teksten 'golfje onderaan de footer">
+ - Onderaan de pagina zit er een golfje boven/in de footer verwerkt. Ik heb geprobeerd met border radius dit effect te creëren, alleen ging dit niet omdat de ronding in het midden zit. 
+- Ik heb geprobeerd te spieken in de code van Maltesers zelf, alleen begreep ik er echt helemaal niks van. Klakkeloos de code overnemen zou dus ook geen zin hebben, waardoor ik dit eruit heb gelaten. 
+
+
+
 </details>
 
 ## Bronnenlijst
