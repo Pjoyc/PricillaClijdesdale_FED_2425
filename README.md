@@ -162,16 +162,16 @@ Op de andere pagina die ik heb gecodeerd, de pagina Over Ons van Maltesers gebeu
 Ik was hier eigenlijk al heel ver met mijn website. Dat komt grotendeels doordat beide pagina's zowel aan de bovenkant (navigatie), als aan de onderkant (footer) gelijk zijn. Ik kon dat dus makkelijk copy pasten. Het enige waar ik tegenaan liep was mijn hamburger menu. Deze moest nog op groot scherm werken, en dit kon door middel van media quieries. Ik had hier nog geen aandacht aan besteed, maar ging in de les eigenlijk direct goed. 
 
 Wat ik lastig vond verder, is dat ik de schaduw van mijn button niet wegkrijg. Zie afbeelding hieronder:
-<img src="readme-images/Button.png" width="300px" alt="Button footer">
+<img src="readme-images/Button.png" width="375px" alt="Button footer">
 - Ik heb dit geprobeerd met box-shadow:none, alleen heeft dit niet succesvol gewerkt.
 
 Wat ik als tweede punt lastig vond, en uiteindelijk wel heb kunnen oplossen, is tijdens de laatste les de teksten goed krijgen van mijn 'Ons verhaal' pagina. Zie afbeelding hieronder:
-<img src="readme-images/Teksten.png" width="300px" alt="Teksten 'Ons verhaal' pagina">
+<img src="readme-images/Teksten.png" width="375px" alt="Teksten 'Ons verhaal' pagina">
 - Ik heb een container om de H2 en p gezet, zodat ik kan vertellen aan mijn code dat in mijn grid-column-template de img naar links moet en de container met de teksten naar rechts.
 - In de afbeelding hierboven stond mijn code goed, maar het zag er niet uit.
 
 Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even gestresst, omdat ik niet wist hoe dit moest. Maar dankij de PPT presentatie 'Themes' heb ik geleerd hoe dit moest. Ook heb ik hierdoor ondervonden hoe belangrijk het is om custom properties te hebben binnen de CSS. Zie afbeelding hieronder van mijn basis knopjes:
-<img src="readme-images/Lightdark.png" width="300px" alt="Teksten 'Ons verhaal' pagina">
+<img src="readme-images/Lightdark.png" width="375px" alt="Teksten 'Ons verhaal' pagina">
 
 
 </details>
@@ -187,24 +187,24 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
   <img src="readme-images/Mijnpagina2.png" width="375px" alt="uitkomst opdracht">
 
   ### Dit ging goed/Heb ik geleerd: 
-  <img src="readme-images/hbm1.png" width="300px" alt="hamburger menu">
-  <img src="readme-images/hbm2.png" width="300px" alt="hamburger menu">
+  <img src="readme-images/hbm1.png" width="375px" alt="hamburger menu">
+  <img src="readme-images/hbm2.png" width="375px" alt="hamburger menu">
   - Het hamburger menu coderen en vormgeven ging goed met behulp van de lessen en de opdracht van Sanne.
 
-  <img src="readme-images/ppa.png" width="300px" alt="Producten pagina artikelen">
-  <img src="readme-images/ovp.png" width="300px" alt="Ons verhaal pagina">
-  <img src="readme-images/footer.png" width="300px" alt="hamburger menu">
+  <img src="readme-images/ppa.png" width="375px" alt="Producten pagina artikelen">
+  <img src="readme-images/ovp.png" width="375px" alt="Ons verhaal pagina">
+  <img src="readme-images/footer.png" width="375px" alt="hamburger menu">
   - Met behulp van de grid-template-colum heb ik mijn artikelblokken heel mooi kunnen opmaken, en kon ik hierin vrij bewegen. Dit was heel erg fijn. Ook hierbij heb ik hulp gekregen tijdens een van de voortgangsgesprekken.
   - Ook heb ik door middel van deze CSS styling, de pagina van 'Ons verhaal' kunnen opmaken in media queries.
   - Binnen mijn footer heb ik ook hier weer dezelfde CSS styling toegepast, en met behulp van containers rechtsgezet. 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
-  <img src="readme-images/Teksten.png" width="300px" alt="Teksten 'Ons verhaal' pagina">
+  <img src="readme-images/Teksten.png" width="375px" alt="Teksten 'Ons verhaal' pagina">
   
   - Op de officiele pagina wisselen deze steeds om van positie (de afbeelding en tekst). Ik heb een poging gedaan dit    gelijk te krijgen, alleen is dit niet gelukt.
 
-  <img src="readme-images/navigatie.png" width="300px" alt="navigatie menu">
+  <img src="readme-images/navigatie.png" width="375px" alt="navigatie menu">
   
   - Binnen de navigatie zijn er eigenlijk nog twee onderdelen, waarvan 1 boven (contact en hulp, zoekbalk) en 1 beneden (Home/Producten). Deze twee waren voor mij nog te grote uitdaging om erin te verwerken. Het is echter alleen   kwestie van veel CSS styling, alleen ben ik nog niet zover om dit te kunnen. 
 
