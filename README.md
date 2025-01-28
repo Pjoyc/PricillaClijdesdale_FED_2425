@@ -187,7 +187,6 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
   <img src="readme-images/Mijnpagina2.png" width="375px" alt="uitkomst opdracht">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
   <img src="readme-images/hbm1.png" width="300px" alt="hamburger menu">
   <img src="readme-images/hbm2.png" width="300px" alt="hamburger menu">
   - Het hamburger menu coderen en vormgeven ging goed met behulp van de lessen en de opdracht van Sanne.
