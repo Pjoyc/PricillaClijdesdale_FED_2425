@@ -207,7 +207,7 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
   <img src="readme-images/navigatie.png" width="300px" alt="navigatie menu">
   - Binnen de navigatie zijn er eigenlijk nog twee onderdelen, waarvan 1 boven (contact en hulp, zoekbalk) en 1          beneden (Home/Producten). Deze twee waren voor mij nog te grote uitdaging om erin te verwerken. Het is echter alleen   kwestie van veel CSS styling, alleen ben ik nog niet zover om dit te kunnen. 
 
- <img src="readme-images/golfje.png" width="300px" alt="Teksten 'golfje onderaan de footer">
+ <img src="readme-images/golfje.png" width="375px" alt="Teksten 'golfje onderaan de footer">
  - Onderaan de pagina zit er een golfje boven/in de footer verwerkt. Ik heb geprobeerd met border radius dit effect te creëren, alleen ging dit niet omdat de ronding in het midden zit. 
 - Ik heb geprobeerd te spieken in de code van Maltesers zelf, alleen begreep ik er echt helemaal niks van. Klakkeloos de code overnemen zou dus ook geen zin hebben, waardoor ik dit eruit heb gelaten. 
 
