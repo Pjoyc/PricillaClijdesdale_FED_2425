@@ -208,6 +208,8 @@ Wat ik als laatste punt lastig vond, is de light dark mode. Ik was eerst even ge
   
   - Binnen de navigatie zijn er eigenlijk nog twee onderdelen, waarvan 1 boven (contact en hulp, zoekbalk) en 1 beneden (Home/Producten). Deze twee waren voor mij nog te grote uitdaging om erin te verwerken. Het is echter alleen   kwestie van veel CSS styling, alleen ben ik nog niet zover om dit te kunnen. 
 
+
+
  <img src="readme-images/golfje.png" width="375px" alt="Teksten 'golfje onderaan de footer">
  
  - Onderaan de pagina zit er een golfje boven/in de footer verwerkt. Ik heb geprobeerd met border radius dit effect te creëren, alleen ging dit niet omdat de ronding in het midden zit. 
